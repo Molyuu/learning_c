@@ -1,6 +1,5 @@
 #include <stdio.h>
-float main(){
-	printf("gork\n");
+int main(){
+	printf(" %3d \n",1234);
 	return 0;
-
 }
