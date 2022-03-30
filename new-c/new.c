@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main(){
+float main(){
 	printf("gork\n");
-	return 0;
+	return 1.20203343;
 
 }
