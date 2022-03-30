@@ -1,6 +1,6 @@
 #include <stdio.h>
 float main(){
-	printf("gork\n");
+	printf("我是傻逼\n");
 	return 0;
 
 }
