@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(){
+int main(){
 	printf("搞基\n");
-
+	return 0;
 }
